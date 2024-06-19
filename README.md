@@ -1,4 +1,4 @@
-Hi, This is the Personal Portfolio site for shital lilhare, built with Bootstrap and a lot of love
+Hi, This is the Personal Portfolio site for shital , built with Bootstrap and a lot of love
 
 DEMO: https://sleepy-engelbart-41ce4b.netlify.app/
 
